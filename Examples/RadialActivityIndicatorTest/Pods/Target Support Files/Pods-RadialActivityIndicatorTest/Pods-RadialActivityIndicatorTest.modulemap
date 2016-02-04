@@ -1,0 +1,6 @@
+framework module Pods_RadialActivityIndicatorTest {
+  umbrella header "Pods-RadialActivityIndicatorTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

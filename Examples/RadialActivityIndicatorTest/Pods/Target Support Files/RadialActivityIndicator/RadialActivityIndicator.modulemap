@@ -1,0 +1,6 @@
+framework module RadialActivityIndicator {
+  umbrella header "RadialActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}

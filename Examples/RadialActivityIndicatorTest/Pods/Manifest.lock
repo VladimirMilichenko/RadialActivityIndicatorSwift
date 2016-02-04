@@ -1,0 +1,10 @@
+PODS:
+  - RadialActivityIndicator (1.0.0)
+
+DEPENDENCIES:
+  - RadialActivityIndicator
+
+SPEC CHECKSUMS:
+  RadialActivityIndicator: 8482024400545dcea34682e5dae3d3a276d62d10
+
+COCOAPODS: 0.39.0
